@@ -1,3 +1,4 @@
-# Jam's Cookbook
-# A practice website showing flexbox, html and css skills
-# visit at https://jam-carter.github.io/odin-webpage/
+# Odin-Webpage
+A website comprising a few seperate webpages that have recipes for specific dishes <br>
+Created with HTML, CSS and JavaScript <br> 
+Live Site : https://jam-carter.github.io/odin-webpage
